@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.brandon_ece.starslip",
+    "sha256_cert_fingerprints": ["22:32:94:0F:6D:99:F1:D8:AE:57:04:2A:21:02:57:7B:91:71:44:B7:5C:83:A0:08:36:E3:07:9F:3F:B7:26:A7"]
+  }
+}]
